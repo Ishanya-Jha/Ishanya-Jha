@@ -1,151 +1,209 @@
- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:21152F,50:49346F,100:263D78&height=190&section=header&text=ISHANYA%20JHA&fontSize=48&fontColor=F5EDFF&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descSize=13&descAlignY=65&descColor=D8C8F5" width="100%" />
+ 
+<div align="center">
 
-  <br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:21152F,50:49346F,100:263D78&text=ISHANYA%20JHA&fontColor=F5EDFF&fontSize=54&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&duration=2800&pause=900&color=B9A2F5&center=true&vCenter=true&width=600&lines=Building+things+that+solve+real+problems.;Learning+by+building%2C+one+project+at+a+time.;Exploring+backend+engineering+%26+AI" alt="Animated introduction" />
+<br/>
 
-  <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=B9A2F5&center=true&vCenter=true&width=650&lines=Building+things+for+the+web+%E2%9C%A6;Turning+ideas+into+working+products;Full-Stack+Development+%7C+Problem+Solving;Exploring+GenAI+and+Application+Security" />
 
-  <a href="https://ishanya-portfolio.vercel.app/"><strong>PORTFOLIO ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ishanya-jha-9279b324a/"><strong>LINKEDIN ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:ishanyajha172@gmail.com"><strong>CONTACT ↗</strong></a>
+<br/><br/>
+
+<a href="https://github.com/Ishanya-Jha">
+  <img src="https://img.shields.io/badge/GitHub-Ishanya--Jha-21152F?style=for-the-badge&logo=github&logoColor=F5EDFF"/>
+</a>
+<a href="https://www.linkedin.com/in/ishanya-jha-9279b324a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-49346F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ishanyajha172@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-B9A2F5?style=for-the-badge&logo=gmail&logoColor=21152F"/>
+</a>
+<a href="https://unstop.com/u/ishanjha60274">
+  <img src="https://img.shields.io/badge/Unstop-Profile-263D78?style=for-the-badge"/>
+</a>
+
 </div>
 
 ---
 
-## 01 / ABOUT
+## `01`  About Me
 
-I'm an MCA student focused on **Software Engineering and Full-Stack Development**. I enjoy turning ideas into functional applications, understanding systems beyond the user interface, and improving through hands-on development.
+```yaml
+name: Ishanya Jha
+role: Software Engineer | Full-Stack Developer
+education: MCA (2025–2027)
+university: CSVTU
+current_focus:
+  - Full-Stack Development
+  - Backend Engineering
+  - Data Structures & Algorithms
+  - Generative AI
+  - Application Security
 
-- 🎓 MCA · 2025–2027
-- 📊 Academic performance · 8.75 / 10 CPI
-- 💻 Primary focus · Software Development
-- 🧠 Exploring · Generative AI, Backend Engineering and Application Security
+currently_building: ChefKart AI
+learning: Building scalable and secure applications
+```
 
----
+I'm an MCA student focused on building practical software, strengthening my engineering fundamentals, and turning ideas into useful products.
 
-## 02 / TECHNOLOGY
+I enjoy working across the stack, exploring backend architecture, solving programming problems, and experimenting with AI-powered applications.
+
+## `02`  Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github,linux,postman,vscode&theme=dark" alt="Technology stack" />
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css&theme=dark" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css&theme=dark" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,fastapi&theme=dark" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-21152F?style=flat-square&logo=fastapi&logoColor=B9A2F5"/>
+<img src="https://img.shields.io/badge/JWT%20Authentication-21152F?style=flat-square&logo=jsonwebtokens&logoColor=B9A2F5"/>
+<img src="https://img.shields.io/badge/Gemini%20API-21152F?style=flat-square&logo=googlegemini&logoColor=B9A2F5"/>
+<img src="https://img.shields.io/badge/Mongoose-21152F?style=flat-square&logo=mongoose&logoColor=B9A2F5"/>
+
 </div>
 
-| Category | Technologies |
-|:--|:--|
-| **Languages** | C++, Python, JavaScript, SQL, VB.NET |
-| **Frontend** | HTML5, CSS3, React.js, Vite |
-| **Backend** | Node.js, Express.js, REST APIs |
-| **Databases** | MongoDB, MySQL, MS Access |
-| **Fundamentals** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
-| **Tools** | Git, GitHub, Postman, VS Code, Linux |
-
----
-
-## 03 / SELECTED WORK
+## `03`  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01. ChefKart AI
+<h3>✦ ChefKart AI</h3>
 
-An AI-powered recipe and meal-planning application combining full-stack development with generative AI.
+An AI-powered recipe and meal-planning application.
 
-`React` `Node.js` `MongoDB` `FastAPI` `Gemini`
+- AI-assisted recipe generation
+- Meal planning and shopping lists
+- React, Node.js and MongoDB
+- FastAPI and Gemini integration
 
 **Status:** In development
 
 </td>
 <td width="50%" valign="top">
 
-### 02. JobConnect
+<h3>✦ JobConnect</h3>
 
-A job discovery platform featuring search, filters, categories, bookmarks and application workflows.
+A job search platform built during my web development internship.
 
-`React` `Node.js` `Express` `MongoDB`
+- Job listings and search
+- Category and work-mode filters
+- Bookmark functionality
+- Responsive React interface
 
-[**Explore project ↗**](https://github.com/Ishanya-Jha/DG-Interns-Hub/tree/main/Week-7-Web-Development)
+<a href="https://github.com/Ishanya-Jha/DG-Interns-Hub/tree/main/Week-7-Web-Development">View Repository ↗</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03. SecureAccess
+<h3>✦ Furnisher's</h3>
 
-An authentication-focused application exploring secure backend development, JWT, bcrypt, authorization and rate limiting.
+A furniture shop management project.
 
-`Node.js` `Express` `JWT` `MongoDB`
+- Product and inventory management
+- Database integration
+- VB.NET and MS Access
 
-[**Explore repository ↗**](https://github.com/Ishanya-Jha/DG-Interns-Hub)
+<a href="https://github.com/Ishanya-Jha/DG-Interns-Hub/tree/main/Week-3-Web-Development">View Repository ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 04. Furnisher's
+<h3>✦ SecureAccess</h3>
 
-A furniture shop management system developed to manage products and business records.
+An authentication-focused backend project.
 
-`VB.NET` `MS Access` `OLEDB`
+- User authentication
+- Password hashing
+- JWT-based authorization
+- Backend security practices
 
-[**Explore project ↗**](https://github.com/Ishanya-Jha/DG-Interns-Hub/tree/main/Week-3-Web-Development)
+<a href="https://github.com/Ishanya-Jha/DG-Interns-Hub">Explore GitHub Projects ↗</a>
 
 </td>
 </tr>
 </table>
 
----
+## `04`  HackerRank & Problem Solving
 
-## 04 / EXPERIENCE
+<div align="center">
 
-**Web Development Intern**  
-DG Interns Hub · August 2026 – Present
+<a href="https://www.hackerrank.com/profile/ishanyajha172">
+  <img src="https://img.shields.io/badge/HackerRank-5%20Star%20C%2B%2B-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-Developing practical web applications and gaining hands-on experience with frontend, backend and database technologies.
+<a href="https://www.hackerrank.com/certificates/63c15d0a8a56">
+  <img src="https://img.shields.io/badge/C%2B%2B-Certified-49346F?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</a>
 
-**Cybersecurity Intern**  
-NetworkWalks · 2026
+<a href="https://www.hackerrank.com/certificates/89b0ad24b712">
+  <img src="https://img.shields.io/badge/Python-Basic%20Certified-263D78?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
 
-Working on cybersecurity fundamentals, practical labs and network security concepts.
+<br/><br/>
 
----
+<a href="https://www.hackerrank.com/profile/ishanyajha172">
+  <img src="https://img.shields.io/badge/View%20HackerRank%20Profile-21152F?style=for-the-badge&logo=hackerrank&logoColor=B9A2F5"/>
+</a>
 
-## 05 / EDUCATION
+</div>
 
-| Qualification | Institution | Performance |
-|:--|:--|:--|
-| MCA · 2025–2027 | RITEE · CSVTU | **8.75 CPI** |
-| BCA · 2022–2025 | MAIC · PRSU | **73.87%** |
+## `05`  GitHub Activity
 
----
+<div align="center">
 
-## 06 / CERTIFICATIONS
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ishanya-Jha&show_icons=true&hide_border=true&bg_color=21152F&title_color=B9A2F5&icon_color=8E70C9&text_color=F5EDFF&ring_color=B9A2F5" />
 
-- Google Cybersecurity Professional Certificate · Coursera
-- HackerRank 5-Star · C++
+<img width="49%" src="https://streak-stats.demolab.com?user=Ishanya-Jha&hide_border=true&background=21152F&ring=B9A2F5&fire=D8C8F5&currStreakLabel=B9A2F5&sideLabels=D8C8F5&currStreakNum=F5EDFF&sideNums=F5EDFF&dates=9B8BAF" />
+
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanya-Jha&layout=compact&hide_border=true&bg_color=21152F&title_color=B9A2F5&text_color=F5EDFF" />
+
+</div>
+
+## `06`  Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ishanya-Jha/Ishanya-Jha/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+## `07`  Education & Certifications
+
+- **Master of Computer Applications (MCA)**  
+  2025–2027 | CSVTU | CPI: 8.75/10
+
+- **Bachelor of Computer Applications (BCA)**  
+  2022–2025 | 73.87%
+
+- Google Cybersecurity Professional Certificate
+- HackerRank C++ Certificate
 - HackerRank Python Basic Certificate
 
 ---
 
 <div align="center">
 
-## LET'S CONNECT
+### Let's build something meaningful.
 
-<a href="https://github.com/Ishanya-Jha">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/ishanya-jha-9279b324a/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://www.hackerrank.com/profile/ishanyajha172">HackerRank</a>
-&nbsp;·&nbsp;
-<a href="https://unstop.com/u/ishanjha60274">Unstop</a>
-
-<br/><br/>
-
-<sub>Building with purpose. Learning without limits.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:263D78,50:49346F,100:21152F&height=85&section=footer" width="100%" />
-
-</div>
+<a href="mailto:ishanyajha172@gmail.com">
+  <img src="https://img.shields.io/badge/Let's
