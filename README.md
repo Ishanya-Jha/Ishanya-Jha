@@ -1,94 +1,128 @@
-# Ishanya Jha
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:21152F,50:49346F,100:263D78&height=190&section=header&text=ISHANYA%20JHA&fontSize=48&fontColor=F5EDFF&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descSize=13&descAlignY=65&descColor=D8C8F5" width="100%" />
 
-**Software Engineer · Full-Stack Developer · MCA Student**
+  <br/>
 
-Building thoughtful digital experiences through code, problem-solving and continuous learning.
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&duration=2800&pause=900&color=B9A2F5&center=true&vCenter=true&width=600&lines=Building+things+that+solve+real+problems.;Learning+by+building%2C+one+project+at+a+time.;Exploring+backend+engineering+%26+AI" alt="Animated introduction" />
 
----
+  <br/><br/>
 
-### ABOUT
-
-I'm an MCA student focused on software engineering and full-stack development. I enjoy building practical applications, exploring modern technologies and understanding how software works beyond the user interface.
-
-- **Education:** MCA, 2025–2027
-- **Academic Performance:** 8.75/10 CPI
-- **Primary Focus:** Software Development
-- **Currently Exploring:** Generative AI, Backend Engineering and Application Security
-
----
-
-### TECHNOLOGIES
-
-| Area         | Technologies                                         |
-| ------------ | ---------------------------------------------------- |
-| Languages    | C++, Python, JavaScript, SQL, VB.NET                 |
-| Frontend     | HTML5, CSS3, React.js, Vite                          |
-| Backend      | Node.js, Express.js, REST APIs                       |
-| Databases    | MongoDB, MySQL, MS Access                            |
-| Tools        | Git, GitHub, Postman, VS Code, Linux                 |
-| Fundamentals | DSA, OOP, DBMS, Operating Systems, Computer Networks |
+  <a href="https://ishanya-portfolio.vercel.app/"><strong>PORTFOLIO ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ishanya-jha-9279b324a/"><strong>LINKEDIN ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:ishanyajha172@gmail.com"><strong>CONTACT ↗</strong></a>
+</div>
 
 ---
 
-### SELECTED WORK
+## 01 / ABOUT
 
-**01 / ChefKart AI**
+I'm an MCA student focused on **Software Engineering and Full-Stack Development**. I enjoy turning ideas into functional applications, understanding systems beyond the user interface, and improving through hands-on development.
 
-AI-powered recipe and meal-planning application.
-
-React, Node.js, Express, MongoDB, Python FastAPI and Gemini API.
-
-*Currently in development.*
-
-**02 / JobConnect**
-
-Full-stack job discovery platform featuring search, filtering, categories and bookmarks.
-
-React.js, Node.js, Express.js and MongoDB.
-
-[Repository](https://github.com/Ishanya-Jha/DG-Interns-Hub/tree/main/Week-7-Web-Development)
-
-**03 / SecureAccess**
-
-Authentication-focused application exploring secure backend development, JWT, bcrypt, authorization and rate limiting.
-
-[GitHub](https://github.com/Ishanya-Jha/DG-Interns-Hub)
-
-**04 / Furnisher's**
-
-Furniture Shop Management System developed using VB.NET, Microsoft Access and OLEDB.
-
-[Repository](https://github.com/Ishanya-Jha/DG-Interns-Hub/tree/main/Week-3-Web-Development)
+- 🎓 MCA · 2025–2027
+- 📊 Academic performance · 8.75 / 10 CPI
+- 💻 Primary focus · Software Development
+- 🧠 Exploring · Generative AI, Backend Engineering and Application Security
 
 ---
 
-### EXPERIENCE
+## 02 / TECHNOLOGY
 
-**Web Development Intern**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github,linux,postman,vscode&theme=dark" alt="Technology stack" />
+</div>
+
+| Category | Technologies |
+|:--|:--|
+| **Languages** | C++, Python, JavaScript, SQL, VB.NET |
+| **Frontend** | HTML5, CSS3, React.js, Vite |
+| **Backend** | Node.js, Express.js, REST APIs |
+| **Databases** | MongoDB, MySQL, MS Access |
+| **Fundamentals** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
+| **Tools** | Git, GitHub, Postman, VS Code, Linux |
+
+---
+
+## 03 / SELECTED WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01. ChefKart AI
+
+An AI-powered recipe and meal-planning application combining full-stack development with generative AI.
+
+`React` `Node.js` `MongoDB` `FastAPI` `Gemini`
+
+**Status:** In development
+
+</td>
+<td width="50%" valign="top">
+
+### 02. JobConnect
+
+A job discovery platform featuring search, filters, categories, bookmarks and application workflows.
+
+`React` `Node.js` `Express` `MongoDB`
+
+[**Explore project ↗**](https://github.com/Ishanya-Jha/DG-Interns-Hub/tree/main/Week-7-Web-Development)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03. SecureAccess
+
+An authentication-focused application exploring secure backend development, JWT, bcrypt, authorization and rate limiting.
+
+`Node.js` `Express` `JWT` `MongoDB`
+
+[**Explore repository ↗**](https://github.com/Ishanya-Jha/DG-Interns-Hub)
+
+</td>
+<td width="50%" valign="top">
+
+### 04. Furnisher's
+
+A furniture shop management system developed to manage products and business records.
+
+`VB.NET` `MS Access` `OLEDB`
+
+[**Explore project ↗**](https://github.com/Ishanya-Jha/DG-Interns-Hub/tree/main/Week-3-Web-Development)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 / EXPERIENCE
+
+**Web Development Intern**  
 DG Interns Hub · August 2026 – Present
 
-Developing practical web applications and working with frontend, backend and database technologies.
+Developing practical web applications and gaining hands-on experience with frontend, backend and database technologies.
 
-**Cybersecurity Intern**
+**Cybersecurity Intern**  
 NetworkWalks · 2026
 
-Working on cybersecurity fundamentals, hands-on labs and network security concepts.
+Working on cybersecurity fundamentals, practical labs and network security concepts.
 
 ---
 
-### EDUCATION
+## 05 / EDUCATION
 
-**Master of Computer Applications**
-RITEE · CSVTU · 2025–2027
-CPI: 8.75/10
-
-**Bachelor of Computer Applications**
-MAIC · PRSU · 2022–2025
-Percentage: 73.87%
+| Qualification | Institution | Performance |
+|:--|:--|:--|
+| MCA · 2025–2027 | RITEE · CSVTU | **8.75 CPI** |
+| BCA · 2022–2025 | MAIC · PRSU | **73.87%** |
 
 ---
 
-### CERTIFICATIONS
+## 06 / CERTIFICATIONS
 
 - Google Cybersecurity Professional Certificate · Coursera
 - HackerRank 5-Star · C++
@@ -96,20 +130,22 @@ Percentage: 73.87%
 
 ---
 
-### FIND ME ELSEWHERE
+<div align="center">
 
-**Portfolio** · [https://ishanya-portfolio.vercel.app/](https://ishanya-portfolio.vercel.app/)
+## LET'S CONNECT
 
-**LinkedIn** · [https://www.linkedin.com/in/ishanya-jha-9279b324a/](https://www.linkedin.com/in/ishanya-jha-9279b324a/)
+<a href="https://github.com/Ishanya-Jha">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/ishanya-jha-9279b324a/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://www.hackerrank.com/profile/ishanyajha172">HackerRank</a>
+&nbsp;·&nbsp;
+<a href="https://unstop.com/u/ishanjha60274">Unstop</a>
 
-**GitHub** · [https://github.com/Ishanya-Jha](https://github.com/Ishanya-Jha)
+<br/><br/>
 
-**HackerRank** · [https://www.hackerrank.com/profile/ishanyajha172](https://www.hackerrank.com/profile/ishanyajha172)
+<sub>Building with purpose. Learning without limits.</sub>
 
-**Unstop** · [https://unstop.com/u/ishanjha60274](https://unstop.com/u/ishanjha60274)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:263D78,50:49346F,100:21152F&height=85&section=footer" width="100%" />
 
-**Email** · [ishanyajha172@gmail.com](mailto\:ishanyajha172@gmail.com)
-
----
-
-\<p align="center">   \<sub>Building with purpose. Learning without limits.\</sub> \</p>
+</div>
