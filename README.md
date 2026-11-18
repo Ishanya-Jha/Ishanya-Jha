@@ -1,265 +1,175 @@
-# Hi, I'm Ishanya Jha 👋
+# Ishanya Jha\<span>.\</span>
 
-### 🔐 Cybersecurity & 🌐 Web Development Intern
+### Software Engineer | Full-Stack Developer | MCA Student
 
-I'm an **MCA student and cybersecurity-focused software developer** interested in **network security, secure application development, backend engineering, and security analysis**.
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+ideas+into+digital+experiences.;Developing+with+curiosity+and+purpose.;Learning.+Building.+Improving](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=18\&duration=3000\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&width=650\&lines=Building+ideas+into+digital+experiences.;Developing+with+curiosity+and+purpose.;Learning.+Building.+Improving)." />
+\</p>
 
-I enjoy building practical applications, exploring cybersecurity tools, solving programming problems, and understanding how software and networks can be developed, analyzed, and secured.
-
----
-
-## 🛡️ Cybersecurity
-
-* Network Security & Security Analysis
-* Reconnaissance & OSINT
-* Network Discovery & Enumeration
-* Password Security & Hash Analysis
-* Incident Response Concepts
-* Linux & Security Fundamentals
-* Kali Linux
-* Nmap
-* Maltego
-* DNSRecon
-* Wafw00f
-* theHarvester
-* John the Ripper
+\<p align="center">
+&#x20; \<a href="[https://ishanya-portfolio.vercel.app/](https://ishanya-portfolio.vercel.app/)">
+&#x20;   \<img src="[https://img.shields.io/badge/PORTFOLIO-8B72C7?style=flat-square&logo=googlechrome&logoColor=white](https://img.shields.io/badge/PORTFOLIO-8B72C7?style=flat-square\&logo=googlechrome\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://www.linkedin.com/in/ishanya-jha-9279b324a/](https://www.linkedin.com/in/ishanya-jha-9279b324a/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LINKEDIN-6F82C9?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LINKEDIN-6F82C9?style=flat-square\&logo=linkedin\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:ishanyajha172\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/EMAIL-C58CA8?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/EMAIL-C58CA8?style=flat-square\&logo=gmail\&logoColor=white)" />
+&#x20; \</a>
+\</p>
 
 ---
 
-## 💻 Technical Skills
+## About Me
 
-### Programming Languages
+I'm an MCA student interested in software engineering, full-stack development and building practical applications.
 
-`C++` `Python` `Java` `JavaScript` `VB.NET` `SQL`
+I enjoy working across the development stack, understanding how systems work behind the scenes, and turning ideas into functional products.
 
-### Web & Backend
-
-`HTML5` `CSS3` `Node.js` `Express.js` `REST APIs`
-
-### Databases
-
-`MySQL` `MongoDB Atlas` `Mongoose` `MS Access`
-
-### Tools & Platforms
-
-`Git` `GitHub` `VS Code` `Kali Linux` `Ubuntu` `Oracle VirtualBox` `XAMPP`
+- 🎓 MCA (2025–2027) | CPI: 8.75/10
+- 💻 Focused on Software Development and Full-Stack Engineering
+- 🧩 Practicing Data Structures & Algorithms
+- ✨ Exploring Generative AI and AI-powered applications
+- 🔐 Interested in Application Security and secure development
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🔐 SecureAccess
+**Languages**
 
-A full-stack authentication and authorization system developed during my web development internship.
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/C++-A78BFA?style=flat-square&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-A78BFA?style=flat-square\&logo=cplusplus\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Python-8298D8?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-8298D8?style=flat-square\&logo=python\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/JavaScript-D6A0B5?style=flat-square&logo=javascript&logoColor=white](https://img.shields.io/badge/JavaScript-D6A0B5?style=flat-square\&logo=javascript\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/SQL-8B72C7?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-8B72C7?style=flat-square\&logo=mysql\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/VB.NET-8298D8?style=flat-square&logo=dotnet&logoColor=white](https://img.shields.io/badge/VB.NET-8298D8?style=flat-square\&logo=dotnet\&logoColor=white)" />
+\</p>
 
-The project focuses on implementing common application security mechanisms including authentication, authorization, password protection, and request control.
+**Frontend & Backend**
 
-**Security Features**
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/HTML5-C58CA8?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-C58CA8?style=flat-square\&logo=html5\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/CSS3-A78BFA?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-A78BFA?style=flat-square\&logo=css3\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/React-8298D8?style=flat-square&logo=react&logoColor=white](https://img.shields.io/badge/React-8298D8?style=flat-square\&logo=react\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Node.js-8B72C7?style=flat-square&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-8B72C7?style=flat-square\&logo=nodedotjs\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Express.js-D6A0B5?style=flat-square&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-D6A0B5?style=flat-square\&logo=express\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Vite-A78BFA?style=flat-square&logo=vite&logoColor=white](https://img.shields.io/badge/Vite-A78BFA?style=flat-square\&logo=vite\&logoColor=white)" />
+\</p>
 
-* JWT-based authentication
-* bcrypt password hashing
-* Protected routes
-* Role-based authorization
-* Rate limiting
+**Databases & Tools**
 
-**Technologies**
-
-`Node.js` `Express.js` `JavaScript` `JWT` `bcrypt`
-
-🔗 [View SecureAccess](https://github.com/Ishanya-Jha/DG-Interns-Hub/tree/main/Week-5-Web-Development)
-
----
-
-### 🛋️ Furnisher's — Full-Stack E-Commerce Platform
-
-A full-stack evolution of my original BCA furniture management project.
-
-The application was expanded from a desktop-based academic project into a web-based furniture platform using modern web development technologies.
-
-**Technologies**
-
-`Node.js` `Express.js` `JavaScript` `MySQL`
-
-🔗 [View Full-Stack Furnisher's](https://github.com/Ishanya-Jha/DG-Interns-Hub/tree/main/Week-3-Web-Development)
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/MongoDB-8B72C7?style=flat-square&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-8B72C7?style=flat-square\&logo=mongodb\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/MySQL-8298D8?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-8298D8?style=flat-square\&logo=mysql\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Git-C58CA8?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-C58CA8?style=flat-square\&logo=git\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-A78BFA?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-A78BFA?style=flat-square\&logo=github\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Postman-D6A0B5?style=flat-square&logo=postman&logoColor=white](https://img.shields.io/badge/Postman-D6A0B5?style=flat-square\&logo=postman\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Linux-8298D8?style=flat-square&logo=linux&logoColor=white](https://img.shields.io/badge/Linux-8298D8?style=flat-square\&logo=linux\&logoColor=white)" />
+\</p>
 
 ---
 
-### 🖥️ Furnisher's — VB.NET Furniture Shop Management System
+## Selected Projects
 
-My **BCA Final Year Project**, developed as a desktop-based furniture shop management application.
+### 01. ChefKart AI
 
-The application demonstrates database-driven software development using **VB.NET, Windows Forms, MS Access, and OLEDB**.
+**AI-powered recipe and meal planning platform**
 
-**Key Features**
+A full-stack application combining web development and generative AI to create personalized recipe and meal-planning experiences.
 
-* User authentication
-* Role-based access
-* Product and inventory management
-* Customer management
-* Billing and order processing
-* Admin dashboard
-* Sales record management
-* MS Access database integration
+- React + Vite frontend
+- Node.js, Express.js and MongoDB
+- Python FastAPI AI service
+- Gemini API integration
 
-**Technologies**
+\<sub>Currently in development\</sub>
 
-`VB.NET` `Windows Forms` `MS Access` `OLEDB` `Visual Studio`
+### 02. JobConnect
 
-🔗 [View BCA Final Year Project](https://github.com/Ishanya-Jha/BCA-Final-Year-Project)
+**Job Search & Discovery Platform**
 
----
+A web application designed to make job discovery easier through search, filtering and bookmarking.
 
-## 🧩 Problem Solving & DSA
+- React.js frontend
+- Node.js and Express.js backend
+- MongoDB integration
+- Job search, category filters and bookmarks
 
-I'm gradually strengthening my **problem-solving and data-structures skills** through consistent practice on **LeetCode** and other programming platforms.
+[View Project Repository →](https://github.com/Ishanya-Jha/DG-Interns-Hub/tree/main/Week-7-Web-Development)
 
-### LeetCode Practice
+### 03. SecureAccess
 
-My LeetCode solutions are organized in a dedicated programming portfolio, covering problems across different difficulty levels and topics.
+**Authentication & Security Application**
 
-**Focus Areas**
+A backend-focused project exploring authentication, authorization and secure API development.
 
-* Arrays & Strings
-* Hash Tables
-* Two Pointers
-* Sliding Window
-* Linked Lists
-* Stacks & Queues
-* Sorting & Searching
-* Recursion
-* Trees & Graphs
-* Dynamic Programming
-* Problem-Solving Patterns
+- JWT authentication
+- Password hashing with bcrypt
+- Role-based authorization
+- Input validation and rate limiting
 
-🔗 [View LeetCode Solutions](https://github.com/Ishanya-Jha/Programming-Portfolio/tree/main/LeetCode)
+[View GitHub Repository →](https://github.com/Ishanya-Jha/DG-Interns-Hub)
 
----
+### 04. Furnisher's
 
-## 💼 Experience
+**Furniture Shop Management System**
 
-### 🔐 Cybersecurity Intern — NetworkWalks
+An academic desktop application for managing furniture shop operations and records.
 
-Gaining practical exposure to cybersecurity concepts, security analysis, reconnaissance, network security, and security tools.
+- VB.NET
+- Microsoft Access
+- OLEDB database connectivity
 
-### 🌐 Web Development Intern — DG Interns Hub
-
-Working on practical web development projects and strengthening skills in frontend, backend, databases, APIs, and application development.
+[View Project Repository →](https://github.com/Ishanya-Jha/DG-Interns-Hub/tree/main/Week-3-Web-Development)
 
 ---
 
-## 🏆 Certifications & Achievements
+## Experience
 
-* 🎓 **Google Cybersecurity Professional Certificate** — Coursera
-* 🐍 **Python (Basic)** — HackerRank
-* ⭐ **5-Star C++** — HackerRank
-* 💡 **Adobe Hackathon Participant**
-* 🏅 **Star of the Month** — JCI Raipur MAIC United
+**Web Development Intern**
+DG Interns Hub | August 2026 – Present
 
----
+- Developing practical frontend and backend applications.
+- Working with React, Node.js, Express.js and MongoDB.
+- Implementing application features through project-based assignments.
 
-## 🎓 Education
+**Cybersecurity Intern**
+NetworkWalks | 2026
 
-### Master of Computer Applications (MCA)
-
-**Raipur Institute of Technology**
-2025 – 2027
-
-### Bachelor of Computer Applications (BCA)
-
-**Maharaja Agrasen International College**
-2022 – 2025
+- Practicing cybersecurity fundamentals and hands-on labs.
+- Exploring network security and security analysis.
 
 ---
 
-## 📚 Currently Learning
+## Education
 
-* 🔐 Cybersecurity & Security Analysis
-* 🌐 Network Security
-* 🛡️ Secure Web Application Development
-* ⚙️ Backend Development
-* 🐧 Linux & Networking
-* 🐍 Python
-* 🗄️ SQL & Database Management
-* 🧩 Data Structures & Problem Solving
-* 🔎 Application Security
-* 🔧 Git & GitHub
-* ☁️ Cloud & DevSecOps Fundamentals
+| Degree | Institution  | Duration  | Result       |
+| ------ | ------------ | --------- | ------------ |
+| MCA    | RITEE, CSVTU | 2025–2027 | CPI: 8.75/10 |
+| BCA    | MAIC, PRSU   | 2022–2025 | 73.87%       |
 
 ---
 
-## 🎯 Areas of Interest
+## Certifications & Achievements
 
-* Cybersecurity
-* Network Security
-* Application Security
-* Ethical Hacking
-* Security Analysis
-* Secure Software Development
-* Backend Engineering
-* Web Development
-* Linux & Networking
-* DevSecOps
-* Problem Solving & Data Structures
+- Google Cybersecurity Professional Certificate – Coursera
+- HackerRank 5-Star in C++
+- HackerRank Python Basic Certificate
+- Practical experience through web development and cybersecurity internships
 
 ---
 
-## 📈 My Learning Journey
+## GitHub Activity
 
-I'm building my technical profile through a combination of:
+\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=Ishanya-Jha&show_icons=true&hide_border=true&bg_color=171521&title_color=A78BFA&icon_color=D6A0B5&text_color=E5DFED](https://github-readme-stats.vercel.app/api?username=Ishanya-Jha\&show_icons=true\&hide_border=true\&bg_color=171521\&title_color=A78BFA\&icon_color=D6A0B5\&text_color=E5DFED)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanya-Jha&layout=compact&hide_border=true&bg_color=171521&title_color=A78BFA&text_color=E5DFED](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanya-Jha\&layout=compact\&hide_border=true\&bg_color=171521\&title_color=A78BFA\&text_color=E5DFED)" /> \</p>
 
-### 🎓 Academic Learning
-
-MCA coursework and computer science fundamentals.
-
-### 💻 Practical Development
-
-Building web applications, backend systems, database-driven applications, and software projects.
-
-### 🔐 Cybersecurity Practice
-
-Exploring security concepts, Linux, networking, reconnaissance, security analysis, and security tools.
-
-### 🧩 Problem Solving
-
-Consistently practicing programming and DSA through LeetCode and other coding platforms.
-
-### 🚀 Professional Experience
-
-Applying these skills through cybersecurity and web development internships.
+\<p align="center">   \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Ishanya-Jha&hide_border=true&background=171521&ring=A78BFA&fire=D6A0B5&currStreakLabel=A78BFA&sideLabels=E5DFED&dates=9B93A9](https://github-readme-streak-stats.herokuapp.com/?user=Ishanya-Jha\&hide_border=true\&background=171521\&ring=A78BFA\&fire=D6A0B5\&currStreakLabel=A78BFA\&sideLabels=E5DFED\&dates=9B93A9)" /> \</p>
 
 ---
 
-## 📂 GitHub Portfolio
+## Connect
 
-This GitHub profile documents my journey across **cybersecurity, software development, web development, and programming practice**.
+\<p align="center">   \<a href="[https://ishanya-portfolio.vercel.app/](https://ishanya-portfolio.vercel.app/)">Portfolio\</a> ·   \<a href="[https://github.com/Ishanya-Jha](https://github.com/Ishanya-Jha)">GitHub\</a> ·   \<a href="[https://www.linkedin.com/in/ishanya-jha-9279b324a/](https://www.linkedin.com/in/ishanya-jha-9279b324a/)">LinkedIn\</a> ·   \<a href="[https://www.hackerrank.com/profile/ishanyajha172](https://www.hackerrank.com/profile/ishanyajha172)">HackerRank\</a> ·   \<a href="[https://unstop.com/u/ishanjha60274](https://unstop.com/u/ishanjha60274)">Unstop\</a> \</p>
 
-You'll find:
-
-* 🔐 Cybersecurity experiments and learning
-* 💻 Software development projects
-* 🌐 Full-stack web applications
-* 🗄️ Database-driven applications
-* 🧩 LeetCode & programming solutions
-* 📚 Learning resources and practice work
-
----
-
-## 📫 Connect With Me
-
-* 💼 [LinkedIn](https://linkedin.com/in/ishanya-jha-9279b324)
-* 🧑‍💻 [GitHub](https://github.com/Ishanya-Jha)
-* 🏆 [HackerRank](https://hackerrank.com/profile/ishanyajha172)
-
----
-
-## ⚡ About Me
-
-I'm interested in the intersection of **software development and cybersecurity**.
-
-I like understanding not only how applications are built, but also how they can be **analyzed, tested, and secured**.
-
-I'm continuously working on improving my technical skills through **projects, internships, certifications, problem-solving practice, and hands-on experimentation**.
-
----
-
-### *Learning, building, breaking things safely, and improving one project at a time. 🔐💻*
+\<p align="center">   \<sub>Designed with curiosity. Built with code. Always evolving.\</sub> \</p>
